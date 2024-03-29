@@ -1,2 +1,2 @@
-# Plant_Disease_Prediction
-Plant Disease Prediction using CNN
+# FashionAI_Companion
+fashion assist using deep learning approach
